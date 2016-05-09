@@ -1,0 +1,2 @@
+# StudentRecords
+Program to store a collection of student records using a singly linked list. A description of some methods are included in the comments at the top of the code. This code is adapted from "Think Like a Programmer," by V. Anton Spraul. The book has completely rewired the way I approach and think about coding, and I highly recommend the book to anyone wanting to improve their coding skills.
